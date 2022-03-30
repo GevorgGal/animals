@@ -3,3 +3,5 @@ Bucket
 Blue
 Dingo
 Rooster
+Cat 
+Monkey
